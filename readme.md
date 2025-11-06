@@ -1,6 +1,6 @@
 # JocationPlus IOS虚拟定位修改器 
 
-#### 修改自[JonneyDong的Jocation](https://github.com/JonneyDong/JocationRelease)，感谢原作者的开源~
+#### 修改自[quxiaozha的JocationPlus](https://github.com/quxiaozha/JocationPlus)，感谢原作者的开源~
 
 #### 使用方法：下载源码，使用vs编译后生成exe，即可使用
 
