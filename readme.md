@@ -6,7 +6,7 @@
 
 ### 欢迎STAR、PR~
 
-### JocationPlus QQ交流群: 438721672
+### JocationPlus QQ交流群: 632610614
 
 #### 版本记录
 - v1.8  **逆向参考Location-cleaned软件，补充实现定位还原功能。** 
